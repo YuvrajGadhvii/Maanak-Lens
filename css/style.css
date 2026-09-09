@@ -124,7 +124,7 @@ body::before {
 
 .btn-ghost {
   background: #06c009;
-  color: #10b51d;
+  color: #ffff;
   border-color: var(--border);
   padding: 0.7rem 1.75rem;
 }
